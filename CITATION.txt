@@ -1,0 +1,14 @@
+If you use this code for any published work, please cite it using the reference
+below:
+
+@article{JacucciCBS2019,
+author = {Jacucci, Gianni  and Onelli, Olimpia D.  and De Luca, Antonio  and Bertolotti, Jacopo  and Sapienza, Riccardo  and Vignolini, Silvia },
+title = {Coherent backscattering of light by an anisotropic biological network},
+journal = {Interface Focus},
+volume = {9},
+number = {1},
+pages = {20180050},
+year = {2019},
+doi = {10.1098/rsfs.2018.0050}
+}
+
